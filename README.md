@@ -1,6 +1,6 @@
 <div align="center">
 
-<span style="color:red"> #  Хавратович Алина Алексеевна
+<span style="color:red">Хавратович Алина Алексеевна</span>
 
 ![99px_ru_animacii_39531_chashka_chaja_v_ruke](https://github.com/user-attachments/assets/948ad3a8-983c-47d7-bbc0-913bca06abf7)
 
